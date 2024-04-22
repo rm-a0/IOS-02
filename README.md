@@ -12,9 +12,9 @@ You can run the program using
 <pre>
   ./proj2 L Z K TL TB
 </pre>
-where
-L - number of skiers
-Z - number of stops
-K - bus capacity
-TL - travel time to stop (skier) (in ms)
-TB - travel time between stops (bus) (in ms)
+where \
+L - number of skiers \
+Z - number of stops \
+K - bus capacity \
+TL - travel time to stop (skier) (in ms) \
+TB - travel time between stops (bus) (in ms) \

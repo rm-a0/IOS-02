@@ -7,7 +7,7 @@ In the system, there are three types of processes: (0) main process, (1) ski bus
 For compiling you can use command make from Makefile or
 <pre>
   gcc -std=gnu99 -Wall -Wextra -Werror -pedantic -pthread proj2.c -o proj2
-<pre/>
+</pre>
 You can run the program using
 <pre>
   ./proj2 L Z K TL TB
